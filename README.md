@@ -24,4 +24,4 @@ I work on the boundary between development and operations: making sure services 
 
 ### GitHub activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsr01&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vsr01&show_icons=true&hide_border=true)
